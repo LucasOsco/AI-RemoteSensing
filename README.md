@@ -1,2 +1,2 @@
-# RemoteSensingAI
+# AI-RemoteSensing
 Work in progress.
