@@ -1,2 +1,2 @@
 # AI-RemoteSensing
-Work in progress.
+Work in progress. Please have patience.
