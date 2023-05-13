@@ -41,10 +41,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or suggestions, please open an issue on this repository. We'd love to hear your feedback and ideas to make this resource even better!
 
-## Citing
-
-If you use this project in your research, please cite it as:
-
 ## How to Cite
 
 ```bibtex
