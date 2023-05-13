@@ -16,8 +16,8 @@ The Advanced section is for those who are comfortable with image data processing
 
 Currently, you can explore the following notebooks:
 
-- [SAM BBox v01](https://github.com/LucasOsco/AI-RemoteSensing/blob/main/image_notebook/sam_bbox_v01.ipynb): This notebook delves into the Segment Anything Model (SAM), demonstrating its application for bounding box-based remote sensing image analysis.
+- [SAM-BBox](https://github.com/LucasOsco/AI-RemoteSensing/blob/main/image_notebook/sam_bbox_v01.ipynb): This notebook delves into the Segment Anything Model (SAM), demonstrating its application for bounding box-based remote sensing image analysis.
 
-- [SAM Point v01](https://github.com/LucasOsco/AI-RemoteSensing/blob/main/image_notebook/sam_point_v01.ipynb): In this notebook, you'll learn about point-based analysis in remote sensing images using the Segment Anything Model (SAM) method.
+- [SAM-Point](https://github.com/LucasOsco/AI-RemoteSensing/blob/main/image_notebook/sam_point_v01.ipynb): In this notebook, you'll learn about point-based analysis in remote sensing images using the Segment Anything Model (SAM) method.
 
 More notebooks will be added to this section over time, so stay tuned for more advanced topics and applications in image data processing!
