@@ -4,9 +4,13 @@ Welcome to AI-RemoteSensing, a collection of Jupyter and Google Colaboratory not
 
 ## Overview
 
-This repository offers a wide variety of notebooks demonstrating the potential of AI in the field of remote sensing. Ranging from basic concepts to advanced applications, these notebooks cover various techniques such as image processing, classification, object detection, and much more. 
+Welcome to AI-RemoteSensing, a repository teeming with notebooks that highlight the enormous potential of Artificial Intelligence (AI) in the field of Remote Sensing. These notebooks range from introductory concepts to advanced applications, encompassing a wide variety of techniques such as classification, segmentation, object detection, spectroscopy analysis, and optical and multispectral image processing.
 
-Whether you are a student seeking educational materials, a researcher pursuing cutting-edge developments, or a professional exploring commercial applications, I hope you find these resources valuable.
+In the realm of remote sensing, optical and multispectral image processing hold immense significance. Optical image processing involves the manipulation and interpretation of visible light data, while multispectral image processing extends this to other frequencies, capturing information beyond what the human eye can see. These techniques allow us to extract more detailed and nuanced information from images, thus enhancing the power and potential of remote sensing.
+
+The application of AI in spectroscopy is another exciting domain. It enables the identification and measurement of different materials' properties by interpreting the patterns of light they absorb, emit, or scatter.
+
+Whether you're a student seeking educational materials, a researcher eager to delve into the frontier of AI developments, or a professional exploring pragmatic applications, I hope you find these resources valuable. These materials are meticulously curated and designed to serve as a comprehensive guide, assisting you in exploring and harnessing the power of AI in remote sensing, spectroscopy, and image processing.
 
 ## Content
 
@@ -36,3 +40,20 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 If you have any questions or suggestions, please open an issue on this repository. We'd love to hear your feedback and ideas to make this resource even better!
+
+## Citing
+
+If you use this project in your research, please cite it as:
+
+## How to Cite
+
+```bibtex
+@misc{OscoAIRemoteSensing2023,
+  author = {Lucas Prado Osco},
+  title = {AI-RemoteSensing},
+  year = {2023},
+  publisher = {GitHub},
+  journal = {GitHub Repository},
+  howpublished = {\url{https://github.com/LucasOsco/AI-RemoteSensing}},
+  commit = {May}
+}
