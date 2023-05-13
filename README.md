@@ -1,5 +1,7 @@
 # AI-RemoteSensing
 
+![https://github.com/LucasOsco/AI-RemoteSensing/docs/assets/image_banner.png](https://github.com/LucasOsco/AI-RemoteSensing/blob/main/docs/assets/image_banner.png)
+
 Welcome to AI-RemoteSensing, a collection of Jupyter and Google Colaboratory notebooks dedicated to leveraging Artificial Intelligence (AI) in Remote Sensing applications. This repository serves as an open-source platform for researchers, educators, and professionals to explore, learn, and expand their knowledge in this exciting intersection of technologies.
 
 ## Overview
