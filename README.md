@@ -2,11 +2,10 @@
 
 ![https://github.com/LucasOsco/AI-RemoteSensing/docs/assets/image_banner.png](https://github.com/LucasOsco/AI-RemoteSensing/blob/main/docs/assets/image_banner.png)
 
-Welcome to AI-RemoteSensing, a collection of Jupyter and Google Colaboratory notebooks dedicated to leveraging Artificial Intelligence (AI) in Remote Sensing applications. This repository serves as an open-source platform for researchers, educators, and professionals to explore, learn, and expand their knowledge in this exciting intersection of technologies.
-
 ## Overview
+Welcome to AI-RemoteSensing, a collection of Jupyter and Google Colaboratory notebooks dedicated to leveraging Artificial Intelligence (AI) in Remote Sensing applications. This repository serves as an open-source platform for researchers, educators, and professionals to explore, learn, and expand their knowledge in this exciting intersection of technologies. 
 
-Welcome to AI-RemoteSensing, a repository teeming with notebooks that highlight the enormous potential of Artificial Intelligence (AI) in the field of Remote Sensing. These notebooks range from introductory concepts to advanced applications, encompassing a wide variety of techniques such as classification, segmentation, object detection, spectroscopy analysis, and optical and multispectral image processing.
+These notebooks range from introductory concepts to advanced applications, encompassing a wide variety of techniques such as classification, segmentation, object detection, spectroscopy analysis, and optical and multispectral image processing.
 
 Whether you're a student seeking educational materials, a researcher eager to delve into the frontier of AI developments, or a professional exploring pragmatic applications, I hope you find these resources valuable. These materials are meticulously curated and designed to serve as a comprehensive guide, assisting you in exploring and harnessing the power of AI in remote sensing, spectroscopy, and image processing.
 
