@@ -6,7 +6,7 @@ Welcome to AI-RemoteSensing, a collection of Jupyter and Google Colaboratory not
 
 This repository offers a wide variety of notebooks demonstrating the potential of AI in the field of remote sensing. Ranging from basic concepts to advanced applications, these notebooks cover various techniques such as image processing, classification, object detection, and much more. 
 
-Whether you are a student seeking educational materials, a researcher pursuing cutting-edge developments, or a professional exploring commercial applications, you will find these resources valuable.
+Whether you are a student seeking educational materials, a researcher pursuing cutting-edge developments, or a professional exploring commercial applications, I hope you find these resources valuable.
 
 ## Content
 
@@ -15,6 +15,11 @@ The notebooks are organized into different categories based on the complexity an
 - **Beginner:** These notebooks introduce basic concepts and techniques, perfect for those new to AI or remote sensing.
 - **Intermediate:** Here you'll find notebooks that delve into more complex topics and applications.
 - **Advanced:** These notebooks tackle cutting-edge research topics and complex real-world applications.
+
+The repository is further divided based on the type of data processing:
+
+- [**Spectroscopy Data Processing:**](./SpectroscopyDataProcessing.md) Here you'll find notebooks and resources related to spectroscopy data processing. Ideal for those interested in studying and analyzing the interaction between matter and electromagnetic radiation.
+- [**Image Data Processing:**](./ImageDataProcessing.md) In this section, you'll find notebooks and resources focused on image data processing. Perfect for those interested in extracting valuable information from digital images.
 
 ## Usage
 
