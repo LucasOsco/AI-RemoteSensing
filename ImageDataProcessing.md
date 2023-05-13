@@ -1,5 +1,7 @@
 # Image Data Processing
 
+[Work in Progress]
+
 Welcome to the Image Data Processing section of AI-RemoteSensing. This section is dedicated to showcasing the application of Artificial Intelligence (AI) techniques in processing and analyzing image data in the field of Remote Sensing. Here, you'll find notebooks that demonstrate how to manipulate, interpret, and extract valuable information from digital images.
 
 ## Beginner
