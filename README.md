@@ -48,7 +48,7 @@ If you use this project in your research, please cite it as:
 ## How to Cite
 
 ```bibtex
-@misc{OscoAIRemoteSensing2023,
+@misc{AIRemoteSensing2023,
   author = {Lucas Prado Osco},
   title = {AI-RemoteSensing},
   year = {2023},
