@@ -22,4 +22,6 @@ Currently, you can explore the following notebooks:
 
 - [SAM-Point](https://github.com/LucasOsco/AI-RemoteSensing/blob/main/image_notebook/sam_point_v01.ipynb): In this notebook, you'll learn about point-based analysis in remote sensing images using the Segment Anything Model (SAM) method.
 
+- [SAM-Text](https://github.com/LucasOsco/AI-RemoteSensing/blob/main/image_notebook/sam_text_v01.ipynb): For this notebook, a text-prompt-based analysis is implemented using the Segment Anything Model (SAM) on georeferenced images.
+
 More notebooks will be added to this section over time, so stay tuned for more advanced topics and applications in image data processing!
