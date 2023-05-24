@@ -5,7 +5,7 @@
 ## Overview
 #### Note: This work is currently in progress and is still in its early stages of development. I have plans to incorporate a larger volume of Jupyter notebooks soon and enhance the existing ones. I appreciate your patience and understanding.
 
-Welcome to AI-RemoteSensing, a collection of Jupyter and Google Colaboratory notebooks dedicated to leveraging Artificial Intelligence (AI) in Remote Sensing applications. This repository serves as an open-source platform for researchers, educators, and professionals to explore, learn, and expand their knowledge in this exciting intersection of technologies. 
+Welcome to AI Remote Sensing, a collection of Jupyter and Google Colaboratory notebooks dedicated to leveraging Artificial Intelligence (AI) in Remote Sensing applications. This repository serves as an open-source platform for researchers, educators, and professionals to explore, learn, and expand their knowledge in this exciting intersection of technologies. 
 
 These notebooks range from introductory concepts to advanced applications, encompassing a wide variety of techniques such as classification, segmentation, object detection, spectroscopy analysis, and optical and multispectral image processing.
 
