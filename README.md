@@ -43,7 +43,7 @@ If you have any questions or suggestions, please open an issue on this repositor
 ## How to Cite
 
 ```bibtex
-@misc{AIRemoteSensing2023,
+@misc{AIRemoteSensing2023_GitHub,
   author = {Lucas Prado Osco},
   title = {AI-RemoteSensing},
   year = {2023},
@@ -51,4 +51,19 @@ If you have any questions or suggestions, please open an issue on this repositor
   journal = {GitHub Repository},
   howpublished = {\url{https://github.com/LucasOsco/AI-RemoteSensing}},
   commit = {May}
+}
+```
+```bibtex
+@software{AIRemoteSensing2023_Zenodo,
+  author       = {Lucas Osco},
+  title        = {{AI-RemoteSensing: a collection of Jupyter and 
+                   Google Colaboratory notebooks dedicated to
+                   leveraging Artificial Intelligence (AI) in Remote
+                   Sensing applications}},
+  month        = jun,
+  year         = 2023,
+  publisher    = {Zenodo},
+  version      = {educational},
+  doi          = {10.5281/zenodo.8092269},
+  url          = {https://doi.org/10.5281/zenodo.8092269}
 }
